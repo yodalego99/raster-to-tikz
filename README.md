@@ -58,7 +58,9 @@ Example TikZ produced by the app:
 \node[font=\footnotesize\itshape] at (1.51,0.34) {B};
 \end{tikzpicture}
 ```
+<p align="center">
 <img width="562" height="363" alt="Screenshot_3333" src="https://github.com/user-attachments/assets/f992ed04-6b08-4d72-ad26-50e46a9db669" />
+</p>
 
 ## Planned updates
 
